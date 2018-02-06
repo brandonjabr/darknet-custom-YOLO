@@ -1,0 +1,9 @@
+data/obj/Mastercard_Credit_Card_17.jpg
+data/obj/Mastercard_Credit_Card_9.jpg
+data/obj/Mastercard_Credit_Card_66.jpg
+data/obj/Mastercard_Credit_Card_88.jpg
+data/obj/Mastercard_Credit_Card_60.jpg
+data/obj/Mastercard_Credit_Card_0.jpg
+data/obj/Mastercard_Credit_Card_84.jpg
+data/obj/Mastercard_Credit_Card_69.jpg
+data/obj/Mastercard_Credit_Card_36.jpg

@@ -1,0 +1,130 @@
+VDPAU capture: Enabled
+vdp_imp_device_create_x11(0x7f2fec238340, 0, -, -)
+    -> 0, 1, 0x7f2ff1c5ec40
+vdp_get_proc_address(1, 0, -)
+    -> 0, 0x7f2ff1a463b0
+vdp_get_proc_address(1, 26, -)
+    -> 0, 0x7f2ff1a48140
+vdp_get_proc_address(1, 27, -)
+    -> 0, 0x7f2ff1a46130
+vdp_get_proc_address(1, 29, -)
+    -> 0, 0x7f2ff1a4d990
+vdp_get_proc_address(1, 25, -)
+    -> 0, 0x7f2ff1a48290
+vdp_get_proc_address(1, 37, -)
+    -> 0, 0x7f2ff1a47ab0
+vdp_get_proc_address(1, 38, -)
+    -> 0, 0x7f2ff1a46090
+vdp_get_proc_address(1, 40, -)
+    -> 0, 0x7f2ff1a49620
+vdp_get_proc_address(1, 36, -)
+    -> 0, 0x7f2ff1a47c00
+vdp_get_proc_address(1, 5, -)
+    -> 0, 0x7f2ff1a46310
+vdp_get_proc_address(1, 4, -)
+    -> 0, 0x7f2ff1a493f0
+vdp_get_proc_address(1, 6, -)
+    -> 0, 0x7f2ff1a4c290
+vdp_get_proc_address(1, 18, -)
+    -> 0, 0x7f2ff1a48690
+vdp_get_proc_address(1, 19, -)
+    -> 0, 0x7f2ff1a461d0
+vdp_get_proc_address(1, 21, -)
+    -> 0, 0x7f2ff1a4d040
+vdp_get_proc_address(1, 23, -)
+    -> 0, 0x7f2ff1a4d450
+vdp_get_proc_address(1, 22, -)
+    -> 0, 0x7f2ff1a4d250
+vdp_get_proc_address(1, 34, -)
+    -> 0, 0x7f2ff1a4c880
+vdp_get_proc_address(1, 33, -)
+    -> 0, 0x7f2ff1a4ca10
+vdp_get_proc_address(1, 66, -)
+    -> 0, 0x7f2ff1a45d30
+vdp_get_proc_address(1, 64, -)
+    -> 0, 0x7f2ff1a471f0
+vdp_get_proc_address(1, 56, -)
+    -> 0, 0x7f2ff1a47430
+vdp_get_proc_address(1, 57, -)
+    -> 0, 0x7f2ff1a45eb0
+vdp_get_proc_address(1, 63, -)
+    -> 0, 0x7f2ff1a45de0
+vdp_get_proc_address(1, 62, -)
+    -> 0, 0x7f2ff1a47310
+vdp_get_proc_address(1, 65, -)
+    -> 0, 0x7f2ff1a47060
+vdp_get_proc_address(1, 58, -)
+    -> 0, 0x7f2ff1a4ba50
+vdp_get_proc_address(1, 59, -)
+    -> 0, 0x7f2ff1a4bb00
+vdp_get_proc_address(1, 4096, -)
+    -> 0, 0x7f2ff1a46f40
+vdp_get_proc_address(1, 55, -)
+    -> 0, 0x7f2ff1a45f50
+vdp_get_proc_address(1, 46, -)
+    -> 0, 0x7f2ff1a4b700
+vdp_get_proc_address(1, 53, -)
+    -> 0, 0x7f2ff1a45ff0
+vdp_get_proc_address(1, 41, -)
+    -> 0, 0x7f2ff1a47790
+vdp_get_proc_address(1, 54, -)
+    -> 0, 0x7f2ff1a4c490
+vdp_get_proc_address(1, 48, -)
+    -> 0, 0x7f2ff1a4c190
+vdp_get_proc_address(1, 47, -)
+    -> 0, 0x7f2ff1a4b4d0
+vdp_get_proc_address(1, 9, -)
+    -> 0, 0x7f2ff1a48f70
+vdp_get_proc_address(1, 10, -)
+    -> 0, 0x7f2ff1a46270
+vdp_get_proc_address(1, 13, -)
+    -> 0, 0x7f2ff1a4ce40
+vdp_get_proc_address(1, 12, -)
+    -> 0, 0x7f2ff1a4cc60
+vdp_get_proc_address(1, 11, -)
+    -> 0, 0x7f2ff1a48d70
+vdp_get_proc_address(1, 7, -)
+    -> 0, 0x7f2ff1a491f0
+vdp_get_proc_address(1, 14, -)
+    -> 0, 0x7f2ff1a48b70
+vdp_get_proc_address(1, 20, -)
+    -> 0, 0x7f2ff1a48490
+vdp_output_surface_create(1, 0, 1, 1, -)
+    -> 0, 2
+vdp_preemption_callback_register(1, 0x557e766d5000, 0x7f2fa1e6c360)
+    -> 0
+vdp_get_proc_address(1, 8, -)
+    -> 0, 0x7f2ff1a490b0
+vdp_get_proc_address(1, 12, -)
+    -> 0, 0x7f2ff1a4cc60
+vdp_get_proc_address(1, 13, -)
+    -> 0, 0x7f2ff1a4ce40
+vdp_get_proc_address(1, 9, -)
+    -> 0, 0x7f2ff1a48f70
+vdp_get_proc_address(1, 10, -)
+    -> 0, 0x7f2ff1a46270
+vdp_video_surface_query_get_put_bits_y_cb_cr_capabilities(1, 0, 0, -)
+    -> 0, 1
+vdp_video_surface_query_get_put_bits_y_cb_cr_capabilities(1, 0, 1, -)
+    -> 0, 1
+vdp_video_surface_query_get_put_bits_y_cb_cr_capabilities(1, 1, 0, -)
+    -> 0, 0
+vdp_video_surface_query_get_put_bits_y_cb_cr_capabilities(1, 1, 1, -)
+    -> 0, 0
+vdp_video_surface_query_get_put_bits_y_cb_cr_capabilities(1, 1, 2, -)
+    -> 0, 1
+vdp_video_surface_query_get_put_bits_y_cb_cr_capabilities(1, 1, 3, -)
+    -> 0, 1
+vdp_video_surface_query_get_put_bits_y_cb_cr_capabilities(1, 2, 1, -)
+    -> 0, 0
+vdp_output_surface_put_bits_native(2, {0x7f2ff3ffe98c}, {4}, {0, 0, 0, 0})
+    ... Data: {{}}
+    -> 0
+vdp_get_information_string(-)
+    -> 0, "NVIDIA VDPAU Driver Shared Library  384.111  Tue Dec 19 22:55:29 PST 2017"
+vdp_get_information_string(-)
+    -> 0, "NVIDIA VDPAU Driver Shared Library  384.111  Tue Dec 19 22:55:29 PST 2017"
+vdp_output_surface_destroy(2)
+    -> 0
+vdp_device_destroy(1)
+    -> 0

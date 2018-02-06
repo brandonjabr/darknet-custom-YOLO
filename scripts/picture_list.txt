@@ -1,0 +1,14 @@
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_10.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_6.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_9.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_8.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_4.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_17.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_12.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_5.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_16.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_15.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_3.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_1.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_18.JPEG
+/home/brandonjabr/git/darknet/scripts/images/picture/picture on wall_14.JPEG

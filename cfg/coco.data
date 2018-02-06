@@ -1,0 +1,16 @@
+classes= 80
+<<<<<<< HEAD
+train  = data/trainvalno5k.txt
+#valid  = coco_testdev
+valid = data/coco_val_5k.list
+names = data/coco.names
+backup = backup/
+=======
+train  = /home/pjreddie/data/coco/trainvalno5k.txt
+#valid  = coco_testdev
+valid = data/coco_val_5k.list
+names = data/coco.names
+backup = /home/pjreddie/backup/
+>>>>>>> 4383fc19d5d5b411122ff4d8b878b399ee093ab1
+eval=coco
+

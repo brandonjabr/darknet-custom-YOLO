@@ -1,0 +1,1 @@
+./darknet detector train cfg/obj.data cfg/yolo-obj.cfg weights/darknet19_448.conv.23
